@@ -7,3 +7,5 @@
 # FAQ
 
 ## How Will People be able to use the feature again?
+
+> The feature will be usable by a Google Extension
